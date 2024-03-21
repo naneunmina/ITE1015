@@ -1,0 +1,1 @@
+add_executable(test intset.h intset.cpp main.cpp)

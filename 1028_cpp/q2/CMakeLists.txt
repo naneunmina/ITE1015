@@ -1,0 +1,1 @@
+add_executable(test setfunc.h setfunc.cpp main.cpp)

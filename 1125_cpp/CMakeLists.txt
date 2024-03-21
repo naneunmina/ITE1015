@@ -1,0 +1,1 @@
+add_executable(test list.h main.cpp)

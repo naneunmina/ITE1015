@@ -1,0 +1,1 @@
+add_executable(test rect.h rect.cpp main.cpp)

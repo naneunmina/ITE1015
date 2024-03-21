@@ -1,0 +1,1 @@
+add_executable(test my_vector.h my_vector.cpp main.cpp)

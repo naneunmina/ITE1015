@@ -1,0 +1,1 @@
+add_executable(test message.h message.cpp main.cpp)

@@ -1,0 +1,1 @@
+add_executable(test accounts.h accounts.cpp main.cpp)

@@ -1,0 +1,1 @@
+add_executable(test animal.h animal.cpp main.cpp)

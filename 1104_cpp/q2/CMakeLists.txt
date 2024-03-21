@@ -1,0 +1,1 @@
+add_executable(test canvas.h canvas.cpp main.cpp)

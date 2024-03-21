@@ -1,0 +1,1 @@
+add_executable(test my_string2.h my_string2.cpp main.cpp)

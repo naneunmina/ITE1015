@@ -1,0 +1,1 @@
+add_executable(test minimal_fighter.h minimal_fighter.cpp main.cpp)

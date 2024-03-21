@@ -1,0 +1,1 @@
+add_executable(test number.h number.cpp main.cpp)
